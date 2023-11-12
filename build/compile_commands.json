@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/mbn/Documents/Programmering/Cpp Game/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/MySFMLGame.dir/main.cpp.o -c \"/Users/mbn/Documents/Programmering/Cpp Game/main.cpp\"",
+  "file": "/Users/mbn/Documents/Programmering/Cpp Game/main.cpp",
+  "output": "CMakeFiles/MySFMLGame.dir/main.cpp.o"
+}
+]

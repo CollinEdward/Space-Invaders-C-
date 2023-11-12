@@ -1,0 +1,3 @@
+/Users/mbn/Documents/Programmering/Cpp Game/build/CMakeFiles/MySFMLGame.dir
+/Users/mbn/Documents/Programmering/Cpp Game/build/CMakeFiles/edit_cache.dir
+/Users/mbn/Documents/Programmering/Cpp Game/build/CMakeFiles/rebuild_cache.dir
